@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1589987008 source:c:\users\maria\onedrive\escritorio\primer parcial lab\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1589985101 c:\users\maria\onedrive\escritorio\primer parcial lab\funciones.h
+
+1589986750 source:c:\users\maria\onedrive\escritorio\primer parcial lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1589987010 source:c:\users\maria\onedrive\desktop\programacion\primer parcial lab\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1589985102 c:\users\maria\onedrive\desktop\programacion\primer parcial lab\funciones.h
+
+1589986752 source:c:\users\maria\onedrive\desktop\programacion\primer parcial lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1603413399 source:c:\users\maria\onedrive\desktop\dqsp\primer parcial lab\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1603412903 c:\users\maria\onedrive\desktop\dqsp\primer parcial lab\funciones.h
+
+1603412903 source:c:\users\maria\onedrive\desktop\dqsp\primer parcial lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
